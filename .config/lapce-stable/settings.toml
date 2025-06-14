@@ -1,0 +1,10 @@
+[editor]
+font-size = 13
+font-family = "JetBrainsMono Nerd Font"
+
+[core]
+color-theme = "Lapthon"
+icon-theme = "Lapcon"
+
+[ui]
+icon-size = 0
