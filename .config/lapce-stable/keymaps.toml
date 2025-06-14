@@ -9,8 +9,18 @@ key = "Alt+q"
 [[keymaps]]
 command = "duplicate_line_down"
 mode = "i"
-key = "Alt+ArrowDown"
+key = "Alt+d"
 
 [[keymaps]]
 command = "indent_line"
 key = "Alt+]"
+
+[[keymaps]]
+command = "select_current_line"
+mode = "i"
+key = "Alt+l"
+
+[[keymaps]]
+command = "insert_cursor_above"
+mode = "i"
+key = "Ctrl+Alt+ArrowUp"
