@@ -1,0 +1,38 @@
+[icon-theme]
+name = "Lapcon"
+
+[icon-theme.ui]
+"directory.opened" = "icons/directory_opened.svg"
+"directory.closed" = "icons/directory_closed.svg"
+file = "icons/file.svg"
+
+[icon-theme.filename]
+Makefile = "icons/makefile.svg"
+Dockerfile = "icons/docker.svg"
+".gitattributes" = "icons/git.svg"
+".gitmodules" = "icons/git.svg"
+".gitignore" = "icons/git.svg"
+"CODE_OF_CONDUCT.md" = "icons/conduct.svg"
+"CONTRIBUTING.md" = "icons/contributing.svg"
+LICENSE = "icons/license.svg"
+"requirements.txt" = "icons/python-misc.svg"
+".python-version" = "icons/python-misc.svg"
+".env" = "icons/python-misc.svg"
+"README.md" = "icons/readme.svg"
+
+[icon-theme.extension]
+php = "icons/php.svg"
+py = "icons/python.svg"
+c = "icons/c.svg"
+js = "icons/javascript.svg"
+sh = "icons/console.svg"
+html = "icons/html.svg"
+css = "icons/css.svg"
+lock = "icons/lock.svg"
+json = "icons/json.svg"
+ui = "icons/ui.svg"
+md = "icons/markdown.svg"
+toml = "icons/toml.svg"
+png = "icons/image.svg"
+jpg = "icons/image.svg"
+jpeg = "icons/image.svg"

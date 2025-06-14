@@ -1,0 +1,6 @@
+name = "lapcon"
+version = "0.1.0"
+display-name = "Lapcon"
+author = "sheikhreed"
+description = "A minimal icon theme"
+icon-themes = ["lapcon.toml"]
