@@ -1,0 +1,16 @@
+[[keymaps]]
+command = "open_folder"
+key = "Alt+o"
+
+[[keymaps]]
+command = "close_folder"
+key = "Alt+q"
+
+[[keymaps]]
+command = "duplicate_line_down"
+mode = "i"
+key = "Alt+ArrowDown"
+
+[[keymaps]]
+command = "indent_line"
+key = "Alt+]"
