@@ -19,6 +19,7 @@ LICENSE = "icons/license.svg"
 ".python-version" = "icons/python-misc.svg"
 ".env" = "icons/python-misc.svg"
 "README.md" = "icons/readme.svg"
+"robots.txt" = "icons/robots.svg"
 
 [icon-theme.extension]
 php = "icons/php.svg"
@@ -36,3 +37,5 @@ toml = "icons/toml.svg"
 png = "icons/image.svg"
 jpg = "icons/image.svg"
 jpeg = "icons/image.svg"
+ico = "icons/favicon.svg"
+xml = "icons/xml.svg"
